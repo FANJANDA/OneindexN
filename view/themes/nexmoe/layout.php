@@ -44,7 +44,7 @@
   		<meting-js
 		server="netease"
 		type="playlist"
-		id="2485662712"
+		id="900045287"
 		fixed="true">
 	</meting-js>
 	<!-- id改成自己的歌单号 -->
